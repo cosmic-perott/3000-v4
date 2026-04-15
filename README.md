@@ -1,4 +1,4 @@
-# C.H.R.I.S.-3000-code
+# 3000-code
 created by cosmic_perott
 
 ##NOTE
