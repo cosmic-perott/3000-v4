@@ -5,6 +5,7 @@
 
 ***code & hardware made by cosmic-perott for IYRC 2025. for other architectures and code, all credit goes to Gayoung Jung***
 
+explanation + working prototype video: https://www.youtube.com/watch?v=QZXUQE9Obnw
 ##NOTE
 This repo is used for storing code
 not for someone to use it
