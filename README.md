@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/ORANGE%20AI-FF7900?style=for-the-badge&logo=orange&logoColor=white)
 ![](https://img.shields.io/badge/PROCESSING-006699?style=for-the-badge&logo=processing&logoColor=white)
 ![](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ***code & hardware made by cosmic-perott for IYRC 2025. for other architectures and code, all credit goes to Gayoung Jung***
 
 explanation + working prototype video: https://www.youtube.com/watch?v=QZXUQE9Obnw
